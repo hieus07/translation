@@ -2,6 +2,7 @@
   "COMMON": {
     "ACTIONS": {
       "APPLY": "Áp dụng",
+      "COPY": "sao chép",
       "CREATE": "Tạo",
       "DELETE": "Xóa",
       "DUPLICATE": "Nhân bản",
@@ -10,6 +11,9 @@
       "REMOVE": "Loại b",
       "UPDATE": "Cập nhật",
       "VIEW": "Xem"
+    },
+    "GENERAL": {
+      "FLASHCARD_one": "Thẻ ghi nhớ"
     }
   },
   "LANGUAGE": {
