@@ -13,7 +13,9 @@
       "VIEW": "Xem"
     },
     "GENERAL": {
-      "FLASHCARD_one": "Thẻ ghi nhớ"
+      "FLASHCARD_one": "Thẻ ghi nhớ",
+      "FLASHCARD_other": "Thẻ ghi nhớ",
+      "NOTE_one": "ghi chú"
     }
   },
   "LANGUAGE": {
